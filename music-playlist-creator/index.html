@@ -11,17 +11,36 @@
 </head>
 <body>
     <header>
-        <!-- Your header content here -->
+        <h1>Music Contest Explorer</h1>
     </header>
 
     <main> 
-        <!-- Your main content here -->
+        <section class = "playlist-cards">
+
+        </section>
     </main>
 
     <footer>
         <!-- Your footer content here -->
     </footer>
-    <script src="data/data.js"></script>
+    <!-- <script src="data/data.json"></script> -->
     <script src="script.js"></script>
+
+    <div class = "modal-overlay hidden">
+        <div class = "modal-content">
+            <button class="modal-close">Close ✖</button>
+            <button class = "shuffle-btn"> 🔀 Shuffle Songs </button>
+            <img src="assets/img/playlist.png" alt="Playlist icon" class="modal-playlist-cover">
+            <h2 class="modal-playlist-name">Pink Print</h2>
+            <h3 class="modal-artist-name">Nicki Minaj</h3>
+
+
+            <div class = "playlist-container">
+                
+            </div>
+
+        </div>
+
+    </div>
 </body>
 </html>

@@ -1,0 +1,224 @@
+{
+    "playlists" : [
+        {
+            "playlistID" : 1,
+            "playlist_name" : "Pink Print",
+            "playlist_author" : "Nicki Minaj",
+            "playlist_art": "assets/img/Pinkprint.jpeg",
+            "likes" : "123454",
+             "songs": [
+                 {
+            "songID" : 1,
+            "title" : "Pills and Potions",
+            "artist" : "Nicki Minaj",
+            "duration" : "3:23"
+                }, 
+
+                {"songID":2,
+            "title": "Feeling Myself (feat.Beyonce)",
+        "artist" : "Nicki Minaj",
+    "duration" : "2:22"},
+    {
+        "songID" : 3, 
+        "title": "The Night is Still Young",
+        "artist": "Nicki Minaj",
+        "duration": "4:44"
+    }
+               
+    ]   
+},{
+        "playlistID" : 2, 
+        "playlist_name" : "Dangerously in Love",
+        "playlist_author" : "Beyonce",
+        "playlist_art" : "assets/img/Beyonce.jpeg",
+                "likes" : "123454",
+
+    "songs" : [
+        {
+            "songID" : 1,
+            "title" : "Crazy in Love (feat. Jay-Z)",
+            "artist" : "Beyonce",
+            "duration" : "5:55"
+        },
+        {
+            "songID" : 2,
+            "title" : "Baby Boy (feat. Sean Paul)",
+            "artist" : "Beyonce",
+            "duration" : "7:23"
+        },
+        {
+            "songID" : 3,
+            "title" : "Speechless",
+            "artist": "Beyonce",
+            "duration" : "3:45"
+        }
+    ]
+},{
+        "playlistID" :3,
+        "playlist_name" : "Sinners (Original Motion Picture Soundtrack",
+        "playlist_author": "Various Artists",
+        "playlist_art" : "assets/img/Sinners.jpeg",
+                "likes" : "123454",
+
+        "songs" :[
+            {
+                "songID" : 1,
+                "title" : "I Lied to You",
+                "artist" : "Miles Caton",
+                "duration" : "6:45"
+            },
+            {
+                "songID" : 2,
+                "title" : "Will Ye Go, Lassie Go?",
+                "artist" : "Lola Kirke, Peter Dreams, Brian Dunphy, Darren Holden & Jack O'Connell",
+                "duration" : "7:32"
+            },
+            {
+                "songID": 3,
+                "title" : "Last Time (I Seen the Sun)",
+                "artist" : "Alice Smith & Miles Caton",
+                "duration" : "4:58"
+            }
+
+        ]
+    },{
+        "playlistID" : 4, 
+        "playlist_name" : "Ungodly Hour" ,
+        "playlist_author" : "Chloe x Halle",
+        "playlist_art" : "assets/img/Ungodly Hour.jpeg",
+                "likes" : "123454",
+
+        "songs" : [
+            {
+                "songID" : 1, 
+                "title" : "Do It",
+                "artist" : "Chloe x Halle",
+                "duration" : "2:22"
+            },
+            {
+                "songID" : 2, 
+                "title" : "Wonder What She Thinks of Me",
+                "artist" :"Chloe x Halle",
+                "duration": "3:45"
+            },
+            {
+                "songID" : 3, 
+                "title" : "Ungodly Hour",
+                "artist" :"Chloe x Halle",
+                "duration": "4:58"
+            }
+        ]
+    },{
+
+        "playlistID" : 5, 
+        "playlist_name" : "Dlow Curry",
+        "playlist_author" : "Bossman Dlow",
+        "playlist_art" : "assets/img/dlow-curry.jpeg",
+                "likes" : "123454",
+
+        "songs" :[
+            {
+                "songID" : 1,
+                "title" : "Like Dat",
+                "artist" : "Bossman Dlow",
+                "duration" : "6:45"
+            },
+            {
+                "songID" : 2,
+                "title" : "Mo Chicken (feat. French Montana)",
+                "artist" : "Bossman Dlow",
+                "duration" : "7:23"
+            },
+            {
+                "songID" : 3, 
+                "title" : "The Biggest Pt. 2",
+                "artist" :"Bossman Dlow",
+                "duration" : "4:58"
+            }
+        ]
+    },{
+
+        "playlistID" : 6,
+        "playlist_name" : "GLORIOUS",
+        "playlist_author" : "GloRilla",
+        "playlist_art" : "assets/img/glorilla-album.webp",
+                "likes" : "123454",
+
+        "songs" : [
+            {
+                "songID" : 1,
+                "title" : "HOLLON",
+                "artist" : "GloRilla",
+                "duration" : "4:44"
+            },
+            {
+                "songID": 2,
+                "title" : "TGIF",
+                "artist" : "GloRilla",
+                "duration" : "5:55"
+            },
+            {
+                "songID": 3,
+                "title": "HOW I LOOK",
+                "artist" : "GloRilla",
+                "duration" : "4:58"
+            }
+        ]
+    },{
+        "playlistID" : 7,
+        "playlist_name" : "MEGAN: ACT II",
+        "playlist_author": "Megan Thee Stallion",
+        "playlist_art" : "assets/img/MEGAN.jpeg",
+                "likes" : "123454",
+
+        "songs":[
+            {
+                "songID" :1,
+                "title" : "Bigger In Texas",
+                "artist" : "Megan Thee Stallion",
+                "duration" : "5:55"
+            },
+            {
+                "songID":2,
+                "title" : "Right Now",
+                "artist" : "Megan Thee Stallion",
+                "duration":"6:45"
+            },
+            {
+                "songID": 3,
+                "title" : "Mamushi (Remix) [Feat. TWICE]",
+                "artist": "Megan Thee Stallion",
+                "duration":"4:44"
+            }
+        ]
+    },{
+        "playlistID" : 8,
+        "playlist_name" : "CTRL",
+        "playlist_author" : "SZA",
+        "playlist_art" : "assets/img/SZA.jpeg",
+                "likes" : "123454",
+
+        "songs" :[
+            {
+                "songID" : 1,
+                "title" : "Pretty Little Birds (feat. Isaiah Rashad)",
+                "artist" : "SZA",
+                "duration" : "5:55"
+            },
+            {
+                "songID": 2,
+                "title": "20 Something",
+                "artist": "SZA",
+                "duration":"4:58"
+            },
+            {
+                "songID": 3,
+                "title" : "Broken Clocks",
+                "artist": "SZA",
+                "duration": "3:23"
+            }
+        ]
+    }
+
+    ]
+}
