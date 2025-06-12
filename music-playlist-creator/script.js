@@ -26,6 +26,7 @@ fetch("../data/data.json")
          <span class="heart-icon">&#x2665;</span>
          <span class="like-count">${playlist.likes}</span>
         </div>
+        <span class="trash-icon">🗑️</span>
         `;
 
         card.addEventListener("click", (e)=>{
@@ -36,9 +37,12 @@ fetch("../data/data.json")
     
    const heart = card.querySelector(".heart-icon");
    const count = card.querySelector(".like-count");
+   const trash = card.querySelector(".trash-icon"); 
    heart.addEventListener("click", (e) => {
     e.stopPropagation();
     let n = parseInt(count.textContent, 10);
+    const card = heart.closest(".playlist-card");
+
     if(heart.classList.contains("liked")){
         heart.classList.remove("liked");
         count.textContent = --n;
@@ -46,8 +50,20 @@ fetch("../data/data.json")
     }else{
         heart.classList.add("liked");
         count.textContent = ++n; 
+
+        card.classList.add("shake");
+        setTimeout(() =>{
+          card.classList.remove("shake");
+        },400);
     }
 
+
+
+   });
+
+   trash.addEventListener("click", (e) =>{
+    e.stopPropagation();
+    card.remove();
    });
    return card; 
 

@@ -5,7 +5,7 @@
             "playlist_name" : "Pink Print",
             "playlist_author" : "Nicki Minaj",
             "playlist_art": "assets/img/Pinkprint.jpeg",
-            "likes" : "123454",
+            "likes" : "123",
              "songs": [
                  {
             "songID" : 1,
@@ -31,7 +31,7 @@
         "playlist_name" : "Dangerously in Love",
         "playlist_author" : "Beyonce",
         "playlist_art" : "assets/img/Beyonce.jpeg",
-                "likes" : "123454",
+                "likes" : "154",
 
     "songs" : [
         {
@@ -58,7 +58,7 @@
         "playlist_name" : "Sinners (Original Motion Picture Soundtrack",
         "playlist_author": "Various Artists",
         "playlist_art" : "assets/img/Sinners.jpeg",
-                "likes" : "123454",
+                "likes" : "123",
 
         "songs" :[
             {
@@ -86,7 +86,7 @@
         "playlist_name" : "Ungodly Hour" ,
         "playlist_author" : "Chloe x Halle",
         "playlist_art" : "assets/img/Ungodly Hour.jpeg",
-                "likes" : "123454",
+                "likes" : "454",
 
         "songs" : [
             {
@@ -114,7 +114,7 @@
         "playlist_name" : "Dlow Curry",
         "playlist_author" : "Bossman Dlow",
         "playlist_art" : "assets/img/dlow-curry.jpeg",
-                "likes" : "123454",
+                "likes" : "0",
 
         "songs" :[
             {
@@ -142,7 +142,7 @@
         "playlist_name" : "GLORIOUS",
         "playlist_author" : "GloRilla",
         "playlist_art" : "assets/img/glorilla-album.webp",
-                "likes" : "123454",
+                "likes" : "454",
 
         "songs" : [
             {
@@ -169,7 +169,7 @@
         "playlist_name" : "MEGAN: ACT II",
         "playlist_author": "Megan Thee Stallion",
         "playlist_art" : "assets/img/MEGAN.jpeg",
-                "likes" : "123454",
+                "likes" : "124",
 
         "songs":[
             {
@@ -196,7 +196,7 @@
         "playlist_name" : "CTRL",
         "playlist_author" : "SZA",
         "playlist_art" : "assets/img/SZA.jpeg",
-                "likes" : "123454",
+                "likes" : "124",
 
         "songs" :[
             {

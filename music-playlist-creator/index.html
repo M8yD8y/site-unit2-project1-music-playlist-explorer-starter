@@ -6,15 +6,23 @@
     
     <title>Music Playlist Explorer</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
     
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <h1>Music Contest Explorer</h1>
-                <a href="featured.html">← Featured Playlist</a>
+        <nav>          
+                          <a href="index.html" class = "nav-btn">All Playlists</a>
+
+                  <a href="featured.html" class = "nav-btn">Featured Playlist</a>
+    </nav>
 
     </header>
+
+
 
     <main> 
         <section class = "playlist-cards">
@@ -30,9 +38,9 @@
 
     <div class = "modal-overlay hidden">
         <div class = "modal-content">
-            <button class="modal-close">Close ✖</button>
-            <button class = "shuffle-btn"> 🔀 Shuffle Songs </button>
-            <img src="assets/img/playlist.png" alt="Playlist icon" class="modal-playlist-cover">
+            <button class="modal-close"> ✖</button>
+             <img src="assets/img/playlist.png" alt="Playlist icon" class="modal-playlist-cover">
+            <button class = "shuffle-btn">Shuffle Songs </button>
             <h2 class="modal-playlist-name">Pink Print</h2>
             <h3 class="modal-artist-name">Nicki Minaj</h3>
 
